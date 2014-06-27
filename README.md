@@ -1,4 +1,4 @@
-# Geekograhy of France
+# Geekography of France
 
 *This is a work in progress, result of one day of hackathon @ [Digital Methods Seminar](http://digitalmethods-seminar.org/barcamp/), in Paris.*
 
